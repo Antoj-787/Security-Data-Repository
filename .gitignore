@@ -1,0 +1,20 @@
+# Large dataset files - do not push to GitHub
+*.csv
+*.xlsx
+emails.csv
+SpamAssassin.csv
+malware_urls.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Operating system
+.DS_Store
+Thumbs.db
