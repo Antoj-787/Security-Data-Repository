@@ -30,7 +30,7 @@ To create a centralized, cost-effective, and easy-to-use repository
 for cybersecurity learning.
 
 ## Team Members
-Abin Binu - Windows & Linux Logs
-Alen Mulangan Devi - Network & Web Attacks
-Antony Jude John - Digital Forensics
-Mehenur Master -  Email, IOC & Repo Integration
+1. Abin Binu - Windows & Linux Logs
+2. Alen Mulangan Devi - Network & Web Attacks
+3. Antony Jude John - Digital Forensics
+4. Mehenur Master -  Email, IOC & Repo Integration
