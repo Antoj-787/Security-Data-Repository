@@ -1,0 +1,19 @@
+Dec 10 01:52:54 kali wireplumber[1227]: default: Failed to get percentage from UPower: org.freedesktop.DBus.Error.NameHasNoOwner
+Dec 10 01:53:10 kali lightdm[1195]: pam_systemd(lightdm-greeter:session): Failed to release session: Transport endpoint is not connected
+Dec 10 01:53:10 kali lightdm[1303]: Failed to write utmpx: No such file or directory
+Dec 10 01:53:10 kali wireplumber[1340]: default: Failed to get percentage from UPower: org.freedesktop.DBus.Error.NameHasNoOwner
+Dec 10 02:49:41 kali lightdm[1303]: Failed to write utmpx: No such file or directory
+Dec 10 02:49:42 kali systemd[1314]: xfce4-notifyd.service: Failed with result 'exit-code'.
+Dec 10 02:50:03 kali wireplumber[989]: default: Failed to get percentage from UPower: org.freedesktop.DBus.Error.NameHasNoOwner
+Dec 10 02:50:08 kali lightdm[957]: pam_systemd(lightdm-greeter:session): Failed to release session: Transport endpoint is not connected
+Dec 10 02:50:08 kali lightdm[1064]: Failed to write utmpx: No such file or directory
+Dec 10 02:50:08 kali wireplumber[1099]: default: Failed to get percentage from UPower: org.freedesktop.DBus.Error.NameHasNoOwner
+Dec 10 02:50:18 kali systemd[963]: gvfs-daemon.service: Failed to kill control group /user.slice/user-111.slice/user@111.service/session.slice/gvfs-daemon.service, ignoring: Operation not permitted
+Dec 10 02:50:18 kali systemd[963]: gvfs-daemon.service: Failed to kill control group /user.slice/user-111.slice/user@111.service/session.slice/gvfs-daemon.service, ignoring: Operation not permitted
+Mar 20 07:01:56 kali wireplumber[1151]: default: Failed to get percentage from UPower: org.freedesktop.DBus.Error.NameHasNoOwner
+Mar 20 07:02:17 kali lightdm[1119]: pam_systemd(lightdm-greeter:session): Failed to release session: Transport endpoint is not connected
+Mar 20 07:02:18 kali lightdm[1228]: Failed to write utmpx: No such file or directory
+Mar 20 07:02:18 kali wireplumber[1265]: default: Failed to get percentage from UPower: org.freedesktop.DBus.Error.NameHasNoOwner
+Mar 20 07:09:02 kali sshd-session[5248]: Failed password for invalid user admin from ::1 port 54598 ssh2
+Mar 20 07:09:14 kali sshd-session[5248]: Failed password for invalid user admin from ::1 port 54598 ssh2
+Mar 20 07:09:24 kali sshd-session[5248]: Failed password for invalid user admin from ::1 port 54598 ssh2
